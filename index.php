@@ -1,5 +1,5 @@
 <?php
 
-$version = 2;
+$version = 3;
 
 echo "this is my site version:$version";
